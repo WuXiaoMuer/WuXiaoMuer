@@ -2,7 +2,7 @@
 
 * #### 你好鸭😆，这里是雾削木的个人开发主页😋！
 
-  <p style="text-align: center"> <a href="https://github.com/WuXiaoMuer/WuXiaoMuer"><img src="img\me.png"></a> </p>
+  <p style="text-align: center"> <a href="https://github.com/WuXiaoMuer"><img src="img\me.png"></a> </p>
 
   >这个网名说来也很奇怪，有段时间我在想象网名构建的世界，结果在一片阴霾中出现了看不清的碎裂木头，因此就叫它雾削(xiao)木(一种景象)吧！
 
