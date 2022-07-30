@@ -2,6 +2,8 @@
 
 * #### 你好鸭😆，这里是雾削木的个人开发主页😋！
 
+*  [关注](https://github.com/users/follow?target=WuXiaoMuer) [B站：雾削木FHZ](https://space.bilibili.com/323611141)
+
   >这个网名说来也很奇怪，有段时间我在想象网名构建的世界，结果在一片阴霾中出现了看不清的碎裂木头，因此就叫它雾削(xiao)木(一种景象)吧！
 
 ### 经历路程
