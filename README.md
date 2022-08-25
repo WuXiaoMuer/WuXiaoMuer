@@ -1,5 +1,5 @@
 ## 个人
-
+![WuXiaoMuer GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer)
 * #### 你好鸭😆，这里是雾削木的个人开发主页😋！
 
   <p style="text-align: center"> <a href="https://github.com/WuXiaoMuer"><img src="img\me.png"></a> </p>
