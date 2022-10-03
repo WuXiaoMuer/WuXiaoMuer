@@ -1,6 +1,6 @@
 ## 个人
 
-![WuXiaoMuer GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer)
+
 
 * #### 你好鴨 😆， 這裡是霧削木的個人開發主頁 😋！
 
@@ -29,3 +29,8 @@
   >（霧
   
 * 我在製作無聊的項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
+
+![WuXiaoMuer GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer)
+
+### 歡迎加入我的QQ交流群：806278403，一起交流~！
+
