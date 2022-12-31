@@ -34,3 +34,4 @@
 
 ### 歡迎加入我的QQ交流群：806278403，一起交流~！
 [![Star History Chart](https://api.star-history.com/svg?repos=WuXiaoMuer/WuXiaoMuer&type=Date)](https://star-history.com/#WuXiaoMuer/WuXiaoMuer&Date)
+![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=radical)
