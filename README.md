@@ -30,9 +30,9 @@
   
 * 我在製作無聊的項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
   
-'''python
+```python
 ![WuXiaoMuer GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer)
-'''
+```
   ![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=dark)
 
 ### 歡迎加入我的QQ交流群：806278403，一起交流~！
