@@ -28,16 +28,10 @@
   >隨後的視頻在我的B站頻道[主頁]（ https://space.bilibili.com/323611141 ）都可以看到。
   >（霧
   
-* 我在製作無聊的項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
+* 我在製作項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
   
-```python
-![WuXiaoMuer GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer)
-```
+
   ![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=dark)
 
 ### 歡迎加入我的QQ交流群：806278403，一起交流~！
-```python
-[![Star History Chart](https://api.star-history.com/svg?repos=WuXiaoMuer/WuXiaoMuer&type=Date)](https://star-history.com/#WuXiaoMuer/WuXiaoMuer&Date)
-  
-![WuXiaoMuer's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WuXiaoMuer&theme=dark)
-```
+
