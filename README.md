@@ -32,6 +32,6 @@
   
 
   ![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuXiaoMuer&layout=compact)
 ### 歡迎加入我的QQ交流群：806278403，一起交流~！
 
