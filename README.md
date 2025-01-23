@@ -35,3 +35,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuXiaoMuer&layout=compact)
 ### 歡迎加入我的QQ交流群：806278403，一起交流~！
 
+### 赞助
+
+> [!TIP]
+> [`爱发电`](https://afdian.com/a/WuXiaoMu)
