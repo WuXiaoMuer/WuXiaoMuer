@@ -21,7 +21,7 @@
 * ### 個人開發經歷
 
   ![book](img/book.png) ![MC](img/mc_cr.svg)  ![epl](img/e.png) ![Window](img/window.png) ![pc](img/pc.png) ![people](img/people.png)
-  2016-2025
+  >- ### 2016-2025
   >- Minecraft
   >- 易语言
   >- E4A
