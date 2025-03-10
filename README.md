@@ -38,6 +38,9 @@
   >- MongoDB
   >- Go+Rust
   >- ESP32+STM32+Mixly
+  >- 数字电路、模拟电路
+  >- C51
+  >- RT-Thread Vision Board
   >- ...
 
   ### IDE & Tools
