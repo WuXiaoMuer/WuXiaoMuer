@@ -11,7 +11,7 @@
 
 <h3 align="center">
   <a href="https://space.bilibili.com/323611141"> 
-    🎬 哔哩哔哩频道：雾削木FHZ 
+    🎬 哔哩哔哩频道：雾削木 WuXiaoMu 
   </a>
 </h3>
 
