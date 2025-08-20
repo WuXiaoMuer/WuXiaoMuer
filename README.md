@@ -21,6 +21,36 @@
 * ### 個人開發經歷
 
   ![book](img/book.png) ![MC](img/mc_cr.svg)  ![epl](img/e.png) ![Window](img/window.png) ![pc](img/pc.png) ![people](img/people.png)
+
+  
+
+* >第一個軟件作品被製作出來視頻是2019年的3月2日
+  >
+  >![Hems X 虚拟桌面模拟程序](img/img1.png)
+  >
+  >隨後的視頻在我的B站頻道[主頁]（ https://space.bilibili.com/323611141 ）都可以看到。
+  >（霧
+  
+* 我在製作項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
+  
+## 📊 GitHub 数据
+  ![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuXiaoMuer&layout=compact)
+
+
+## 💬 交流与支持
+
+📢 QQ交流群：994035508  
+☕ [爱发电赞助](https://afdian.com/a/WuXiaoMu)  
+
+> 如果你喜欢我的项目，欢迎通过赞助支持我的创作！❤️
+
+
+
+
+
+
+## 經歷路程
   >- ### 2016-2025
   >- Minecraft
   >- 易语言
@@ -73,25 +103,3 @@
   >- Typora
   >- VMware Workstation Pro
   >- ...
-  
-
-* >第一個軟件作品被製作出來視頻是2019年的3月2日
-  >
-  >![Hems X 虚拟桌面模拟程序](img/img1.png)
-  >
-  >隨後的視頻在我的B站頻道[主頁]（ https://space.bilibili.com/323611141 ）都可以看到。
-  >（霧
-  
-* 我在製作項目和一些程式碎片 😙， 如果你能喜歡它那真的太好了 🤣。 （一直都是這樣 🤗。
-  
-## 📊 GitHub 数据
-  ![WuXiaoMuer's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuXiaoMuer&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuXiaoMuer&layout=compact)
-
-
-## 💬 交流与支持
-
-📢 QQ交流群：994035508  
-☕ [爱发电赞助](https://afdian.com/a/WuXiaoMu)  
-
-> 如果你喜欢我的项目，欢迎通过赞助支持我的创作！❤️
