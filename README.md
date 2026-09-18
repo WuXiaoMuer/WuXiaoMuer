@@ -20,10 +20,10 @@
 
 <!-- 状态徽章 -->
 <p>
-  <img src="https://img.shields.io/badge/坐标-中国_成都-red?style=flat-square&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/坐标-PRC-red?style=flat-square&logo=google-maps&logoColor=white">
   <img src="https://img.shields.io/badge/状态-持续学习中-green?style=flat-square&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/已编程-9年-blue?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/语言-C++_/_C#_/_Python-orange?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/语言-C/C++_/_C#_/_Python-orange?style=flat-square&logo=c%2B%2B&logoColor=white">
 </p>
 
 <!-- 社交链接 -->
